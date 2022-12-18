@@ -1,0 +1,16 @@
+h3{
+    box-shadow: 5px 5px red;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF; 
+}
+.heading{
+    font-size: 23px;
+width: 100%;
+    margin: 0px;
+}
+.note {
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
